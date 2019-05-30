@@ -1,4 +1,4 @@
-# Forecast-
+# Forecasting and Regression
 #### 1. Performed exponential smoothing forecasts on the Honeywell stock prices to forecast the price for 4/16/2018. Used successive values of 0.15, 0.35, 0.55, and 0.75 for the smoothing parameter α. Calculated the MSE of each forecast and used the MSEs of the forecasts to determine the value of α that has provided the most accurate forecast.
 
 #### 2. Used exponential smoothing forecast with 𝜶=𝟎.75, and performed adjusted exponential smoothing forecasts on the Honeywell stock prices to forecast the price for 4/16/2018. Used successive values of 0.15, 0.25, 0.45, and 0.85 for the trend parameter β. Used the MSEs of forecasts to determine the value of β that has provided the most accurate forecast. 
